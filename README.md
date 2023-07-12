@@ -16,5 +16,5 @@ JSON
 <img width="863" alt="Screenshot 2023-07-11 at 2 29 14 PM" src="https://github.com/SamanthaJoy13/takeNotes/assets/123443185/35f06443-bd92-4d3b-85c1-24da3c459cc9">
 
 
-link here
+Here's the link to the deployed app to test out: https://notetakerr-f5dc5f9cb574.herokuapp.com/
 
